@@ -15,7 +15,7 @@ type Study struct {
   Sql     string
   Rust    string
   Apis    string
-  Project Management  string
+  Projects  string
 }
 ```
 ## Sobre mim
