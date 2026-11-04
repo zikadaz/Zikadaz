@@ -1,4 +1,4 @@
-# Opa, me chamo Rafael! 👋
+# Opa, sou Rafael👋
 
 Sou um estudante de tecnologia atualmente cursando Informática Para Internet no Centro Paula Souza.
 
